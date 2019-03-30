@@ -4,7 +4,7 @@ Encouragingly, more and more people want to get involved in using their data ana
 
 Too often, however, people do not know where to start when researching projects to get invoved in or trying to understand which organisations are doing work in this space. This repository aims to be a place to help direct people to organisations, conferences, academic institutions and competitions etc. that and allow them to better understand this landscape.
 
-This is a working repository and initially it will be dominated by organisations I am familiar with - but please do submit a pull request if you know of anythink missing from this list.
+This is a working repository and initially it will be dominated by organisations I am familiar with - but please do submit a pull request if you know of anythink missing from this list or contact me on j.p.bullock[at]durham.ac.uk
 
 ## Definition
 
