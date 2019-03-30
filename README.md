@@ -13,7 +13,9 @@ For this repository the definition of Data4Good (D4G) will be the pursuit of non
 ## Publications:
 
 Devex: https://www.devex.com
+
 MIT Technology Review: https://www.technologyreview.com
+
 LIMN: https://limn.it
 
 UChicago Data Science For Social Good blog: https://dssg.uchicago.edu/blog/
