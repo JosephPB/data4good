@@ -61,7 +61,8 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [Stanford Sustainability and Artificial Intelligence Lab](http://sustain.stanford.edu/predicting-poverty/)\
 [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)\
 [Makerere University AI Research and Data Science](http://air.ug)\
-[Centre for the Study of Existential Risk](https://www.cser.ac.uk)
+[Centre for the Study of Existential Risk](https://www.cser.ac.uk)\
+[Columbia Data Science Institute](https://datascience.columbia.edu/data-for-good-preface)
  
 
 ### Non-Profit/ not for profit
