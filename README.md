@@ -12,14 +12,16 @@ For this repository the definition of Data4Good (D4G) will be the pursuit of non
 
 ## Disclaimer
 
-The selection of organisation in this repository will not be exhaustive and the mentioning of an organisation does not equate to endorsement.
+The selection of organisation in this repository will not be exhaustive and the mentioning of an organisation does not equate to endorsement. Adidiotnally, some organisations may technically be misclassified (e.g. non-profit/industry) so if you see a mistake please let me know.
 
 ## Publications:
+
+Relevant publications convering the humanitarian/ D4G sector:
 
 [Devex](https://devex.com)\
 [MIT Technology Review](https://www.technologyreview.com)\
 [LIMN](https://limn.it)\
-[UN Chronicle](https://unchronicle.un.org)\
+[UN Chronicle](https://unchronicle.un.org)
 
 ## Organisations:
 
@@ -33,13 +35,15 @@ The selection of organisation in this repository will not be exhaustive and the 
 [Global Partnership for Sustainable Development Data](http://www.data4sdgs.org/index.php/)\
 [International Office of Migration](https://www.iom.int)\
 [ITU](https://www.itu.int/en/Pages/default.aspx)\
+[Data2x](https://www.data2x.org)
 
 ### Select Data and Innovation Sources
 
+I do not want to attempt to provide a list of data providers, however, these organisations are great sources of data, as well as projetcs:
+
 [UN Center for Humanitarian Data](https://centre.humdata.org)\
 [NYC Open Data](https://opendata.cityofnewyork.us)\
-[Singapore Open Data](https://data.gov.sg)\
-
+[Singapore Open Data](https://data.gov.sg)
 
 ### Academia
 
@@ -55,7 +59,9 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [Future of Life Institute](https://futureoflife.org)\
 [Alan Turing Institute](https://www.turing.ac.uk/collaborate-turing/data-science-social-good)\
 [Stanford Sustainability and Artificial Intelligence Lab](http://sustain.stanford.edu/predicting-poverty/)\
+[Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)\
 [Makerere University AI Research and Data Science](http://air.ug)\
+[Centre for the Study of Existential Risk](https://www.cser.ac.uk)
  
 
 ### Non-Profit/ not for profit
@@ -73,7 +79,7 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [AI4Good Foundation](https://ai4good.org)\
 [Data Science Africa](http://www.datascienceafrica.org)\
 [BetaNYC](https://beta.nyc)\
-[Rainforest Connection](https://rfcx.org/home)\
+[Rainforest Connection](https://rfcx.org/home)
 
 ### Industry
 
@@ -83,7 +89,7 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [AI4Good - Intel AI](https://www.intel.ai/ai4socialgood/#gs.17chy5)\
 [Uptake.org](https://www.uptake.org/index.html)\
 [Radius](https://radius.com/data-for-good/)\
-[Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/)\
+[Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/)
 
 ## Events:
 
@@ -92,19 +98,24 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [ITU AI for Good Global Summit](https://www.itu.int/en/ITU-T/AI/2018/Pages/default.aspx)\
 [Bloomberg Data for Good Exchange](https://www.bloomberg.com/company/d4gx/)\
 [UChicago Data Science For Social Good Conference](https://dssg.uchicago.edu/data-science-for-social-good-conference-2017/agenda/)\
-[UN World Data Forum](https://undataforum.org)\
+[UN World Data Forum](https://undataforum.org)
 
 ## Other:
 [ITU AI Repository](https://www.itu.int/en/ITU-T/AI/Pages/ai-repository.aspx)\
-[List of courses](https://docs.google.com/document/d/1ZGv2QmnBGZMwpK4wll6-RwyCc9WAnniua_Bmbq1IedQ/edit)\
+[List of relevant online courses](https://docs.google.com/document/d/1ZGv2QmnBGZMwpK4wll6-RwyCc9WAnniua_Bmbq1IedQ/edit)\
 
 ## Competitions:
+
+There are a growing number of competitions in the D4G space, but these are some of the major sources of information about competitions, or specific recurring competitions:
 
 [Kaggle](https://www.kaggle.com)\
 [CrowdAI](https://www.crowdai.org)\
 [DataDriven](https://www.drivendata.org)\
-[IBM Call for Code](https://callforcode.org)\
+[IBM Call for Code](https://callforcode.org)
 
 ## AI Ethics and Policy:
+
+While I do not want to include too much on this very large field, the following are good sources repositories of organisations on these topics:
+
 [Charlotte Stix](https://www.charlottestix.com/ai-policy-resources)\
-[Matt Chessen, Brent Eastwood and Tyler Prochazka](https://docs.google.com/document/d/1DtzQsNBhkbo4TIYceMuKU2_55v2yfdLq0bC_xAW0HC4/pub)\
+[Matt Chessen, Brent Eastwood and Tyler Prochazka](https://docs.google.com/document/d/1DtzQsNBhkbo4TIYceMuKU2_55v2yfdLq0bC_xAW0HC4/pub)
