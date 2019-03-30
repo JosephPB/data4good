@@ -12,7 +12,7 @@ For this repository the definition of Data4Good (D4G) will be the pursuit of non
 
 ## Publications:
 
-(Devex)[https://devex.com]
+[Devex](https://devex.com)\
 
 
 [https://www.devex.com]\
