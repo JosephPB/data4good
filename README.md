@@ -34,7 +34,7 @@ Relevant publications convering the humanitarian/ D4G sector:
 [UN Innovation Network](https://www.uninnovation.network)\
 [Global Partnership for Sustainable Development Data](http://www.data4sdgs.org/index.php/)\
 [International Office of Migration](https://www.iom.int)\
-[ITU](https://www.itu.int/en/Pages/default.aspx)\
+[ITU](https://www.itu.int/en/Pages/default.aspx)
 
 ### Select Data and Innovation Sources
 
@@ -79,7 +79,7 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [AI4Good Foundation](https://ai4good.org)\
 [Data Science Africa](http://www.datascienceafrica.org)\
 [BetaNYC](https://beta.nyc)\
-[Rainforest Connection](https://rfcx.org/home)
+[Rainforest Connection](https://rfcx.org/home)\
 [Data2x](https://www.data2x.org)
 
 ### Industry
