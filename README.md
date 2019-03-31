@@ -25,7 +25,7 @@ Relevant publications convering the humanitarian/ D4G sector:
 
 ## Organisations:
 
-### International Development
+### Intergovernmental
 
 [UN Global Pulse](https://www.unglobalpulse.org)\
 [UNHCR Innovation](https://www.unhcr.org/innovation/)\
@@ -35,7 +35,6 @@ Relevant publications convering the humanitarian/ D4G sector:
 [Global Partnership for Sustainable Development Data](http://www.data4sdgs.org/index.php/)\
 [International Office of Migration](https://www.iom.int)\
 [ITU](https://www.itu.int/en/Pages/default.aspx)\
-[Data2x](https://www.data2x.org)
 
 ### Select Data and Innovation Sources
 
@@ -81,6 +80,7 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [Data Science Africa](http://www.datascienceafrica.org)\
 [BetaNYC](https://beta.nyc)\
 [Rainforest Connection](https://rfcx.org/home)
+[Data2x](https://www.data2x.org)
 
 ### Industry
 
