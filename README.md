@@ -1,10 +1,10 @@
 # Data4Good
 
-Encouragingly, more and more people want to get involved in using their data analysis skill for good causes from building tools for use by humanitarian organisations in natural disasters to helping local communities contact their local representative.
+Encouragingly, more and more people want to get involved in using their data analysis skill for good causes, from building tools for use by humanitarian organisations in natural disasters to helping local communities contact their local representative.
 
 Too often, however, people do not know where to start when researching projects to get invoved in or trying to understand which organisations are doing work in this space. This repository aims to be a place to help direct people to organisations, conferences, academic institutions and competitions etc. that and allow them to better understand this landscape.
 
-This is a working repository and initially it will be dominated by organisations I am familiar with - but please do submit a pull request if you know of anythink missing from this list or contact me on j.p.bullock[at]durham.ac.uk
+This is a working repository and initially it will be dominated by organisations I am familiar with - but please do submit a pull request if you know of anything missing from this list, or contact me on j.p.bullock[at]durham.ac.uk
 
 ## Definition
 
@@ -21,7 +21,8 @@ Relevant publications convering the humanitarian/ D4G sector:
 [Devex](https://devex.com)\
 [MIT Technology Review](https://www.technologyreview.com)\
 [LIMN](https://limn.it)\
-[UN Chronicle](https://unchronicle.un.org)
+[UN Chronicle](https://unchronicle.un.org)\
+[The New Humanitarian](https://www.thenewhumanitarian.org)
 
 ## Organisations:
 
