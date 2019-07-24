@@ -62,7 +62,8 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [Stanford Institute for Human-Centered Artificial Intelligence](https://hai.stanford.edu)\
 [Makerere University AI Research and Data Science](http://air.ug)\
 [Centre for the Study of Existential Risk](https://www.cser.ac.uk)\
-[Columbia Data Science Institute](https://datascience.columbia.edu/data-for-good-preface)
+[Columbia Data Science Institute](https://datascience.columbia.edu/data-for-good-preface)\
+[Cardiff Data Justice Lab](https://datajusticelab.org/research/)
  
 
 ### Non-Profit/ not for profit
@@ -91,7 +92,8 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [AI4Good - Intel AI](https://www.intel.ai/ai4socialgood/#gs.17chy5)\
 [Uptake.org](https://www.uptake.org/index.html)\
 [Radius](https://radius.com/data-for-good/)\
-[Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/)
+[Two Sigma Data Clinic](https://www.twosigma.com/about/data-clinic/)\
+[Element AI](https://www.elementai.com)
 
 ## Events:
 
