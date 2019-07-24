@@ -63,7 +63,8 @@ NYU Machine Learning for Good Laboratory (website coming)\
 [Makerere University AI Research and Data Science](http://air.ug)\
 [Centre for the Study of Existential Risk](https://www.cser.ac.uk)\
 [Columbia Data Science Institute](https://datascience.columbia.edu/data-for-good-preface)\
-[Cardiff Data Justice Lab](https://datajusticelab.org/research/)
+[Cardiff Data Justice Lab](https://datajusticelab.org/research/)\
+[MILA AI for Humanity](https://mila.quebec/en/ai-society/)
  
 
 ### Non-Profit/ not for profit
